@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from 'https://static.wixstatic.com/media/831ed4_08ee39b83c714a6db25a479c40aba905~mv2.png';
+import logo from './logo.png';
 import './App.css';
 import { withAuthenticator } from 'aws-amplify-react'
 import Amplify, { Auth } from 'aws-amplify';
